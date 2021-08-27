@@ -89,7 +89,7 @@ header {
   flex-direction: row;
 }
 .contact-me-section {
-  padding: 10rem;
+  padding: 1rem;
   display: flex;
   flex-direction: row;
 }
@@ -112,7 +112,7 @@ header {
 }
 
 @media screen and (max-width: 1016px) {
-  header, .about-me-section, .img-container {
+  header, body,.container, .proj-container, .about-me-section, .img-container {
      flex-direction: column;
   }
  
